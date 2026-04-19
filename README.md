@@ -12,6 +12,7 @@ This project builds a neural network model using TensorFlow/Keras to predict sur
 - Family relations
 - Ticket fare
 - Embarkation port
+
 The model achieves a public leaderboard score of 0.78229, demonstrating solid baseline performance using deep learning on tabular data.
 
 ## 📊 Dataset
