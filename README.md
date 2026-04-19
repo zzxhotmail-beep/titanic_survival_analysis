@@ -17,9 +17,9 @@ The model achieves a public leaderboard score of 0.78229, demonstrating solid ba
 ## 📊 Dataset
 
 - Source: Kaggle Titanic - Machine Learning from Disaster （[Dataset](https://www.kaggle.com/competitions/titanic/data)）
-**train.csv**: labeled data (with survival outcomes)
-**test.csv**: unlabeled data (for prediction)
-**gender_submission.csv**: example submission format
+  - **train.csv**: labeled data (with survival outcomes)
+  - **test.csv**: unlabeled data (for prediction)
+  - **gender_submission.csv**: example submission format
 
 ## ⚙️ Tech Stack
 
